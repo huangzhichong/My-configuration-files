@@ -1,5 +1,6 @@
-# This is the default .slate file.
-# If no ~/.slate file exists this is the file that will be used.
+# This is my slate configuration file. (about slate, see https://github.com/jigish/slate)
+# How to use:
+#  rename this file to '.slate' and move it to your home foler '~/', then relunch slate
 
 config defaultToCurrentScreen true
 config nudgePercentOf screenSize
